@@ -2,7 +2,7 @@
 
 [list](/zaliczeniowe1awww/list)
 
-## Adelaide Counter Gambit
+# Adelaide Counter Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2019/09/adelaide-counter-gambit.png "Adelaide Counter Gambit")
 
