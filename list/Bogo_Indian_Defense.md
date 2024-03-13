@@ -1,8 +1,8 @@
+# Bogo Indian Defense
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Bogo Indian Defense
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2019/04/bogo-indian-defense.png "Bogo Indian Defense")
 

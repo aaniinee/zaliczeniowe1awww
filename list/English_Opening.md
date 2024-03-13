@@ -1,8 +1,8 @@
+# English Opening
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## English Opening
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/EnglishOpening.jpg "English Opening")
 

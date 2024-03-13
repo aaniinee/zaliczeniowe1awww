@@ -1,8 +1,8 @@
+# King’s Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## King’s Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/KingsGambit.jpg "King’s Gambit")
 

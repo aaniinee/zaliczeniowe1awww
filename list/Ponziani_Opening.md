@@ -1,8 +1,8 @@
+# Ponziani Opening
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Ponziani Opening
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/ponziani-big.jpg "Ponziani Opening")
 

@@ -1,8 +1,8 @@
+# Kings Indian Defense
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Kings Indian Defense
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/kings-indian-defense-big.jpg "Kings Indian Defense")
 

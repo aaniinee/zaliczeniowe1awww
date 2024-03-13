@@ -1,8 +1,8 @@
+# Fried Liver Attack
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Fried Liver Attack
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/fried-liver-attack-big.jpg "Fried Liver Attack")
 

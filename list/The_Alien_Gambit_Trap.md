@@ -1,8 +1,8 @@
+# The Alien Gambit Trap
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## The Alien Gambit Trap
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2024/03/1-alienmp4-1.webp "The Alien Gambit Trap")
 Unpacking the Alien Gambit: A Surprise Weapon Against the Caro-Kann

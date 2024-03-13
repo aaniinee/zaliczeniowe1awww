@@ -1,8 +1,8 @@
+# Traxler Counter Attack
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Traxler Counter Attack
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/traxler-big.png "Traxler Counter Attack")
 

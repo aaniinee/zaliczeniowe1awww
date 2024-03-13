@@ -1,8 +1,8 @@
+# Scotch Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Scotch Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2013/09/scotch-gambit1.jpg "Scotch Gambit")
 

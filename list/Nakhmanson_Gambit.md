@@ -1,8 +1,8 @@
+# Nakhmanson Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Nakhmanson Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2020/07/Nakhmanson-Gambit.png "Nakhmanson Gambit")
 

@@ -1,8 +1,8 @@
+# Belgrade Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Belgrade Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2017/07/belgrade-gambit.jpg "Belgrade Gambit")
 

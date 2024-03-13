@@ -1,8 +1,8 @@
+# Wing Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Wing Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2019/02/wing-gambit.png "Wing Gambit")
 

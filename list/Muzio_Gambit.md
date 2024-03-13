@@ -1,8 +1,8 @@
+# Muzio Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Muzio Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/muzio-gambit-big.jpg "Muzio Gambit")
 

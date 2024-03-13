@@ -1,8 +1,8 @@
+# Albin Counter-Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Albin Counter-Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/albin2.jpg "Albin Counter-Gambit")
 

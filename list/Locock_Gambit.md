@@ -1,8 +1,8 @@
+# Locock Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Locock Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2019/06/locock-gambit.png "Locock Gambit")
 

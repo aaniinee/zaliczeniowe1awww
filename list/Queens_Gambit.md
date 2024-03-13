@@ -1,8 +1,8 @@
+# Queens Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Queens Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/QueensGambit-e1346610053936.jpg "Queens Gambit")
 The Queen’s Gambit is probably the most popular gambit and although most gambits are said to be unsound against perfect play the queen’s gambit is said to be the exception.

@@ -1,8 +1,8 @@
+# Reti Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Reti Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2017/10/Reti-Gambit.jpg "Reti Gambit")
 

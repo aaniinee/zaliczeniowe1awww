@@ -1,8 +1,8 @@
+# Bishop’s Opening
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Bishop’s Opening
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2021/05/bishops-chess-opening.png "Bishop’s Opening")
 

@@ -1,8 +1,8 @@
+# Halloween Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Halloween Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/HalloweenGambit.jpg "Halloween Gambit")
 

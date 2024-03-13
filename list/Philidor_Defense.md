@@ -1,8 +1,8 @@
+# Philidor Defense
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Philidor Defense
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2014/12/philidor.jpg "Philidor Defense")
 

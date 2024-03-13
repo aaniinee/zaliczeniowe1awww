@@ -1,8 +1,8 @@
+# The Three Knights Game
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## The Three Knights Game
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2024/02/Captura-de-ecra-2024-02-10-as-17.27.17.png "The Three Knights Game")
 Introduction to the Three Knights Game in Chess

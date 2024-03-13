@@ -1,8 +1,8 @@
+# Tennison Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Tennison Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2017/03/tennison-gambit-1.jpg "Tennison Gambit")
 

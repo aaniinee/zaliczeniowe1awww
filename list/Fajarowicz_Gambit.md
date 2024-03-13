@@ -1,8 +1,8 @@
+# Fajarowicz Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Fajarowicz Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2024/02/icK1sq5ouVUGRv0U53eq-32.66.webp "Fajarowicz Gambit")
 Fajarowicz Gambit – Chess Opening Tricks and Strategy

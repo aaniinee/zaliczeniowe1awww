@@ -1,8 +1,8 @@
+# Urusov Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Urusov Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2017/02/urusov-gambit.jpg "Urusov Gambit")
 

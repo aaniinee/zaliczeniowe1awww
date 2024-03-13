@@ -1,8 +1,8 @@
+# Slav Geller Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Slav Geller Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2024/02/16893-1708580056677-thumbnail-1-1.webp "Slav Geller Gambit")
 Exploring the Dynamic Slav Geller Gambit in Chess

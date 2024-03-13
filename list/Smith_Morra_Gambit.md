@@ -1,8 +1,8 @@
+# Smith Morra Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Smith Morra Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/smithmorra_big.jpg "Smith Morra Gambit")
 

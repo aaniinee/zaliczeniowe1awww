@@ -1,8 +1,8 @@
+# Matinovsky Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Matinovsky Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2021/07/matinovsky-gambit-opening.jpg "Matinovsky Gambit")
 

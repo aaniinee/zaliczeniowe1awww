@@ -1,8 +1,8 @@
+# Icelandic Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Icelandic Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2013/02/icelandic-gambit.jpg "Icelandic Gambit")
 

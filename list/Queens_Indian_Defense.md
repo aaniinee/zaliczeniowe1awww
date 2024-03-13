@@ -1,8 +1,8 @@
+# Queens Indian Defense
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Queens Indian Defense
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/queens-indian-defense.jpg "Queens Indian Defense")
 

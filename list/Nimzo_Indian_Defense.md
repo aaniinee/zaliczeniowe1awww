@@ -1,8 +1,8 @@
+# Nimzo Indian Defense
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Nimzo Indian Defense
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/nimzo-indian-defense-big.jpg "Nimzo Indian Defense")
 

@@ -1,8 +1,8 @@
+# Elephant Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Elephant Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2019/04/elephant-gambit.png "Elephant Gambit")
 

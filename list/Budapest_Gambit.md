@@ -1,8 +1,8 @@
+# Budapest Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Budapest Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2012/07/budapest_big.jpg "Budapest Gambit")
 

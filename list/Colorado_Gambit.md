@@ -1,8 +1,8 @@
+# Colorado Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-## Colorado Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2016/05/Colorado-Gambit.jpg "Colorado Gambit")
 
