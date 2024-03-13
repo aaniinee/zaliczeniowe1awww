@@ -1,8 +1,8 @@
+# Adelaide Counter Gambit
+
 [home](/zaliczeniowe1awww/)
 
 [list](/zaliczeniowe1awww/list)
-
-# Adelaide Counter Gambit
 
 ![alt text](https://www.thechesswebsite.com/wp-content/uploads/2019/09/adelaide-counter-gambit.png "Adelaide Counter Gambit")
 
